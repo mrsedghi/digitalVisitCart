@@ -1,3 +1,5 @@
+# Digital Visit Card 
+
 ![Project Screenshot](./public/screenshots/screenshot1.png) 
 ![Project Screenshot](./public/screenshots/screenshot2.png) 
 ![Project Screenshot](./public/screenshots/screenshot3.png) 
@@ -68,11 +70,32 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+
 ## 📜 License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+## Support
+If you find this project useful, consider supporting further development!
+
+### 🌍 Iranian Support
+<a href="http://www.coffeete.ir/m.r.sedghii" target="_blank">
+   <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="Buy me a coffee" style="width:150px;" />
+</a>
+
+### 💳 Crypto Support
+**TRX (Tron) Wallet:**  
+```bash
+TXkEs7BHRtV6ffof79Ty92AJW1jYrFRUSY
+```
+
+<i>Your support is greatly appreciated! ❤️</i>
+
 
 ## 📬 Contact
 
@@ -92,6 +115,8 @@ https://github.com/mrsedghi/digitalVisitCart
 https://github.com/mrsedghi/digitalVisitCartBackend
 ```
 ---
+
+
 
 <div align="center">
 Made with ❤️ using React
